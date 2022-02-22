@@ -1,0 +1,45 @@
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\bin\Debug\Learning management system.exe.config
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\bin\Debug\Learning management system.exe
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\bin\Debug\Learning management system.pdb
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form1.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form10.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form11.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form12.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form13.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form2.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form3.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form4.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form5.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form6.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form7.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form8.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form9.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Properties.Resources.resources
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning management system.csproj.GenerateResource.cache
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning management system.exe
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning management system.pdb
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning management system.csprojAssemblyReference.cache
+C:\Users\Haya Hesham\source\repos\Learning management system\Learning management system\obj\Debug\Learning_management_system.Form14.resources
+D:\Learning Management System\Learning management system\bin\Debug\Learning management system.exe.config
+D:\Learning Management System\Learning management system\bin\Debug\Learning management system.exe
+D:\Learning Management System\Learning management system\bin\Debug\Learning management system.pdb
+D:\Learning Management System\Learning management system\obj\Debug\Learning management system.csprojAssemblyReference.cache
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form1.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form10.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form11.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form12.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form13.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form14.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form2.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form3.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form4.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form5.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form6.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form7.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form8.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Form9.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning_management_system.Properties.Resources.resources
+D:\Learning Management System\Learning management system\obj\Debug\Learning management system.csproj.GenerateResource.cache
+D:\Learning Management System\Learning management system\obj\Debug\Learning management system.csproj.CoreCompileInputs.cache
+D:\Learning Management System\Learning management system\obj\Debug\Learning management system.exe
+D:\Learning Management System\Learning management system\obj\Debug\Learning management system.pdb
